@@ -6,7 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    cypher1_code();
+    //cypher1_code();
+    //cypher2_code();
+    wordcnt_code();
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
